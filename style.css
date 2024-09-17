@@ -1,0 +1,17 @@
+/* style.css */
+.stApp {
+    background-color: #ADD8E6;  /* Light blue background */
+    animation: fadeIn 2s ease-in-out; /* Apply fade-in animation */
+}
+
+/* Keyframes for the fade-in animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+
